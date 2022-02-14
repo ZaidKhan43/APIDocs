@@ -14,4 +14,7 @@ Endpoints for viewing and manipulating the Accounts that the Authenticated User 
 
  - [User Details : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/user%20details.md) ``` GET /api/User Details ```
  - [Create User : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/create.md) ``` POST /api/Createuser ```
+ - [Change Password : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Change%20Password.md) ``` POST /api/ChangePassword ```
+ - [Resend Verify Email : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Resend%20Verify%20Email.md) ``` POST /api/ResendVerifyEmail ```
+ - [Reset Password : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Reset%20Password.md) ``` POST /api/ResetPassword ```
 
