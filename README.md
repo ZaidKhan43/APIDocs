@@ -44,7 +44,4 @@ A brief description of what this project does and who it's for
 - [Folder-Service-Rename : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Folder%20Service/Folder-Service-Rename.md) ``` PATCH /api/FolderServiceRename ``` 
 - [Folder-Service-Upload : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Folder%20Service/Folder-Service-Upload.md) ``` POST /api/FolderServiceUpload ```
 - [Folder-Service-List : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Folder%20Service/Folder-Service-list.md) ``` GET /api/FolderServiceList ```
-
-## Google Storage
-
-- 
+ 
