@@ -4,19 +4,26 @@
 A brief description of what this project does and who it's for
 
 
-## Open EndPoints
+## User Service
 
- - [Login : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Login.md) ``` POST /api/login ```
+ - [Login : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Login.md) ``` POST /user-service/login ```
+ - [Create : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/create.md) ``` POST /user-service/create ```
+ - [User Detailed : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/user%20details.md) ``` GET /user-service/user-detailed ```
+ - [Verify Mail : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Verify%20Mail.md) ``` POST /user-service/verify-email ```
+ - [Change Password : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Change%20Password.md) ``` POST /user-service/change-password ```
+ - [Resend Verify Email : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Resend%20Verify%20Email.md) ``` POST user-service/resend-verify-email ```
+ - [Reset Password : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Reset%20Password.md) ``` POST /user-service/reset-password ```
+ - [Send Password Reset : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Send%20Password%20Reset.md) ``` POST /user-service/send-password-reset ```
+ - [Create Google Storage URL : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Create%20google%20Storage%20URL.md) ``` POST /user-service/create-google-storage-url ```
+ - [Remove S3 Metadata : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Remove%20S3%20MetaData.md) ```DELETE /user-service/remove-s3-metadata ```
+ - [Remove S3 Storapge : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Remove%20S3%20Storage.md) ```DELETE /user-service/remove-s3-storage ```
+ - [Remove Subscription : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Remove%20Subscription.md) ```DELETE /user-service/remove-subscription ```
+ - [Add Google Storage : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Add%20Google%20Storage.md) ``` POST /user-service/add-google-storage ```
+ - [Add S3 Storage : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Add%20S3%20Storage%20.md) ``` POST /user-service/add-s3-storage ```
+ - [Create Subscription : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Create%20Subscription.md) ``` POST /user-service/create-subscription ```
+ - [Get Plans : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Get%20Plans.md) ``` GET /user-service/get-plans ```
+ - [Payments ; ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Payments.md) ```GET /user-service/payments ```
 
-## Account Related
-
- - [User Details : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/user%20details.md) ``` GET /api/User Details ```
- - [Create User : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/create.md) ``` POST /api/Createuser ```
- - [Change Password : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Change%20Password.md) ``` POST /api/ChangePassword ```
- - [Resend Verify Email : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Resend%20Verify%20Email.md) ``` POST /api/ResendVerifyEmail ```
- - [Reset Password : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Reset%20Password.md) ``` POST /api/ResetPassword ```
- - [Send Reset Password : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Send%20Password%20Reset.md) ``` POST /api/SendResetPassword ```
- - [Verify Mail : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Accounts/Verify%20Mail.md) ``` POST /api/VerifyMail ```
 
 ## File Service
 
@@ -40,13 +47,4 @@ A brief description of what this project does and who it's for
 
 ## Google Storage
 
-- [Add Google Storage : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Add%20Google%20Storage.md) ``` POST /api/AddGoogleStorage ```
-- [Add S3 Storage : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Add%20S3%20Storage%20.md) ``` POST /api/AddS3Storage ```
-- [Create Subscription : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Create%20Subscription.md) ``` POST /api/CreateSubscription ```
-- [Create Google Storage URL : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Create%20google%20Storage%20URL.md) ``` POST /api/CreateGoogleStorageURL ```
-- [Get Plans : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Get%20Plans.md) ``` GET /api/GetPlans ```
-- [Payments ; ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Payments.md) ```GET /api/Payments ```
-- [Remove S3 Metadata : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Remove%20S3%20MetaData.md) ```DELETE /api/RemoveS3Metadata ```
-- [Remove S3 Storapge : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Remove%20S3%20Storage.md) ```DELETE /api/RemoveS3Storage ```
-- [Remove Subscription : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Google%20Storage/Remove%20Subscription.md) ```DELETE /api/RemoveSubscription ```
 - 
