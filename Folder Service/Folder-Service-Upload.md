@@ -1,6 +1,6 @@
 # Folder-Service-Upload
 
-**URL** : `/api/folder-service/upload/`
+**URL** : `/folder-service/upload`
 
 **Method** : `POST`
 
@@ -10,9 +10,10 @@
 
 ```json
 {
-    "Name": "[Name]",
-    "Owner": "[Owner]",
-    "Parent": "[Parent]",
+    name: "Test"
+    owner: "61f7b576ac857c0c106c4112"
+    parent: "/"
+    parentList: ["/"]
     
 }
 ```
@@ -20,9 +21,10 @@
 
 ```json
 {
-     "Name": "Zaid",
-    "Owner": "Vcollab",
-    "Parent": "VCollab",
+     name: "Test"
+    owner: "61f7b576ac857c0c106c4112"
+    parent: "/"
+    parentList: ["/"]
 
 }
 ```
@@ -34,7 +36,5 @@
 **Content example**
 
 ```json
-{
-    "token": "93144b288eb1fdccbe46d6fc0f241a51766ecd3d"
-}
+{"parentList":["/"],"_id":"620cfbd205e5d5460c87bc5d","name":"Test","parent":"/","owner":"61f7b576ac857c0c106c4112","createdAt":"2022-02-16T13:27:46.021Z","updatedAt":"2022-02-16T13:27:46.021Z","__v":0}
 ```
