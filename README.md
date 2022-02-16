@@ -19,5 +19,5 @@ A brief description of what this project does and who it's for
 
 ## Folder Service
 - [Upload : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Folder%20Service/Folder-Service-Upload.md) ``` POST /folder-service/upload ```
-- [List : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Folder%20Service/Folder-Service-list.md) ``` GET /folder-service/list ``
+- [List : ](https://github.com/ZaidKhan43/APIDocs/blob/master/Folder%20Service/Folder-Service-list.md) ``` GET /folder-service/list ```
  
