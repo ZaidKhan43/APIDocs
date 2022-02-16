@@ -1,6 +1,6 @@
 # User Details
 Used to collect details of user.
-**URL** : `/api/USER_DETAILED/`
+**URL** : `/user-service/user`
 
 **Method** : `GET`
 
@@ -30,7 +30,5 @@ Used to collect details of user.
 **Content example**
 
 ```json
-{
-    "token": "93144b288eb1fdccbe46d6fc0f241a51766ecd3d"
-}
+{"_id":"61f7b576ac857c0c106c4112","emailVerified":true,"email":"zaid@gmail.com"}
 ```
