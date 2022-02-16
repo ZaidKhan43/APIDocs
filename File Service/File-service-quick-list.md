@@ -1,4 +1,4 @@
-# File-Service-list
+# File-Service-quick-list
 
 **URL** : `/file-service/quick-list`
 
