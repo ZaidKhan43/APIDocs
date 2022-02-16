@@ -1,6 +1,6 @@
 # Folder-Service-list
 
-**URL** : `/api/folder-service/list/`
+**URL** : `/folder-service/list/`
 
 **Method** : `GET`
 
@@ -10,8 +10,8 @@
 
 ```json
 {
-    "File Url": "[File Url]",
-    "Folder Url": "[Folder Url]",
+    parent: /
+    type: mongo
     
 }
 ```
@@ -19,8 +19,8 @@
 
 ```json
 {
-     "File Url": "File Url",
-    "Folder Url": "Folder Url",
+     parent: /
+    type: mongo
 
 }
 ```
@@ -32,7 +32,5 @@
 **Content example**
 
 ```json
-{
-    "token": "93144b288eb1fdccbe46d6fc0f241a51766ecd3d"
-}
+[{"parentList":["/"],"_id":"6200ceb38adb8029d8ce77ba","name":"abcd","parent":"/","owner":"61f7b576ac857c0c106c4112","createdAt":"2022-02-07T07:48:03.050Z","updatedAt":"2022-02-07T07:48:03.050Z","__v":0}]
 ```
