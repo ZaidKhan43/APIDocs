@@ -31,7 +31,7 @@ Used to collect token for registered user.
 
 ```json
 	
-    "user": {
+    {
     "storageData": {
     "storageSize": 42645,
     "storageLimit": 0
