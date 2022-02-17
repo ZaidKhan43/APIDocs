@@ -31,6 +31,18 @@
 
 **Content example**
 
-```json
-[{"parentList":["/"],"_id":"6200ceb38adb8029d8ce77ba","name":"abcd","parent":"/","owner":"61f7b576ac857c0c106c4112","createdAt":"2022-02-07T07:48:03.050Z","updatedAt":"2022-02-07T07:48:03.050Z","__v":0}]
+```json[
+  {
+    "parentList": [
+      "/"
+    ],
+    "_id": "6200ceb38adb8029d8ce77ba",
+    "name": "abcd",
+    "parent": "/",
+    "owner": "61f7b576ac857c0c106c4112",
+    "createdAt": "2022-02-07T07:48:03.050Z",
+    "updatedAt": "2022-02-07T07:48:03.050Z",
+    "__v": 0
+  }
+]
 ```
