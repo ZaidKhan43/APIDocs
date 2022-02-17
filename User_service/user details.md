@@ -30,5 +30,9 @@ Used to collect details of user.
 **Content example**
 
 ```json
-{"_id":"61f7b576ac857c0c106c4112","emailVerified":true,"email":"zaid@gmail.com"}
+{
+  "_id": "61f7b576ac857c0c106c4112",
+  "emailVerified": true,
+  "email": "zaid@gmail.com"
+}
 ```
