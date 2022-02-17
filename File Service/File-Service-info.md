@@ -1,6 +1,6 @@
 # File-service-info 
 
-**URL** : `/folder-service/info`
+**URL** : `/file-service/info`
 
 **Method** : `GET`
 
