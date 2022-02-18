@@ -32,7 +32,7 @@
 {
 	"parentList": 
 	[
-		"/"
+	     "/"
   	],
   	"_id": "5fe7a65d4075060017af3a3f",
   	"name": "Homework",
