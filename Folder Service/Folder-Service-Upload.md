@@ -21,10 +21,10 @@
 
 ```json
 {
-    "name': "Test"
-    "owner': "61f7b576ac857c0c106c4112"
-    "parent': "/"
-    "parentList': ["/"]
+    "name": "Test"
+    "owner": "61f7b576ac857c0c106c4112"
+    "parent": "/"
+    "parentList": ["/"]
 
 }
 ```
