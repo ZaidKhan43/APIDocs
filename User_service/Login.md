@@ -32,9 +32,10 @@ Used to collect token for registered user.
 ```json
 	
     {
-    "storageData": {
-    "storageSize": 42645,
-    "storageLimit": 0
+    "storageData": 
+    {
+    	"storageSize": 42645,
+    	"storageLimit": 0
     },
     "_id": "61f7b576ac857c0c106c4112",
     "email": "zaid@gmail.com",
