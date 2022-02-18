@@ -10,8 +10,8 @@
 
 ```json
 {
-    parent: /
-    type: mongo
+    "parent": "/"
+    "type": "mongo"
     
 }
 ```
@@ -19,8 +19,8 @@
 
 ```json
 {
-     parent: /
-    type: mongo
+    "parent": "/"
+    "type": "mongo"
 
 }
 ```
@@ -31,10 +31,11 @@
 
 **Content example**
 
-```json[
-  {
-    "parentList": [
-      "/"
+```json
+{
+    "parentList": 
+    [
+        "/"
     ],
     "_id": "6200ceb38adb8029d8ce77ba",
     "name": "abcd",
@@ -43,6 +44,5 @@
     "createdAt": "2022-02-07T07:48:03.050Z",
     "updatedAt": "2022-02-07T07:48:03.050Z",
     "__v": 0
-  }
-]
+}
 ```
