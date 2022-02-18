@@ -18,8 +18,8 @@ Used to collect token for registered user.
 
 ```json
 {
-    email: "zaid@abc.com"
-    password: "system"
+    "email": "zaid@abc.com"
+    "password": "system"
 }
 ```
 
