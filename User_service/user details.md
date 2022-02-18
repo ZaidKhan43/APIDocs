@@ -18,7 +18,7 @@ Used to collect details of user.
 
 ```json
 {
-    "name": zaid
+    "name": "zaid"
     "email": "zaid@gmail.com",
 }
 ```
